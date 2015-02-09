@@ -7,9 +7,6 @@
     </requires>
     <extension point="xbmc.python.pluginsource" library="default.py">
         <provides>audio</provides>
-        <info>https://raw.githubusercontent.com/beerkeeper/radionl/master/plugin.audio.radionl/addons.xml</info>
-        <checksum>https://raw.githubusercontent.com/beerkeeper/radionl/master/plugin.audio.radionl/addons.xml.md5</checksum>
-        <datadir zip="true">https://github.com/beerkeeper/radionl/raw/master/</datadir>
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary lang="en">Alle radiozenders van Nederland</summary>
